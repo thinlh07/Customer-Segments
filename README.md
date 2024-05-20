@@ -19,7 +19,7 @@ In the analysis the dataset of global retail company was examined to identify RF
 
 * Measuring distribution of Recency, Frequency and Monetary,
 
-* Analysis of value of RFM segments,
+* [Analysis of value of RFM segments](https://github.com/thinlh07/Ecommerce-Retail/blob/main/RFM%20Segments.png)
 
 * Demographic analysis of RFM segments,
 
