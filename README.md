@@ -21,6 +21,6 @@ In the analysis the dataset of global retail company was examined to identify RF
 
 * [Analysis of value of RFM segments](https://github.com/thinlh07/Ecommerce-Retail/blob/main/RFM%20Segments.png)
 
-* Demographic analysis of RFM segments,
+* [Demographic analysis of RFM segments](https://github.com/thinlh07/Ecommerce-Retail/blob/main/geo.png)
 
 
